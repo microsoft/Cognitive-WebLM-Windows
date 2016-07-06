@@ -2,7 +2,7 @@
 This repo contains the Windows client library & sample for the Microsoft WebLM API, an offering within [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services), formerly known as Project Oxford.
 * [Learn about the WebLM API](https://www.microsoft.com/cognitive-services/en-us/web-language-model-api)
 * [Read the documentation](https://www.microsoft.com/cognitive-services/en-us/web-language-model-api/documentation)
-* [Find more SDKs & Samples]()
+* [Find more SDKs & Samples](https://www.microsoft.com/cognitive-services/en-us/SDK-Sample?api=weblm)
 
 
 ## The Client Library
