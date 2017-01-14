@@ -47,7 +47,7 @@ namespace Microsoft.ProjectOxford.Text.WebLM
         /// <summary>
         /// The Service Host
         /// </summary>
-        private const string ServiceHost = "https://api.projectoxford.ai/text/weblm/v1.0";
+        private const string ServiceHost = "https://westus.api.cognitive.microsoft.com/text/weblm/v1.0";
 
         /// <summary>
         /// The JSON content type header.
