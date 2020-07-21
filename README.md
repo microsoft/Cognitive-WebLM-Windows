@@ -12,8 +12,7 @@ The client library is a thin C\# client wrapper for the Microsoft WebLM API.
 ## The Sample
 This sample is a C# Windows console application demonstrating the use of the Microsoft WebLM API.
 
-To obtain a subscription key for WebLM API, visit [the Microsoft Cognitive Services website](<https://www.microsoft.com/cognitive-services/en-us/sign-up>) and sign up for free using a Microsoft account.
-Then open, modify, build, and run the accompanying Visual Studio solution.
+To obtain a subscription key for WebLM API, visit [the Microsoft Cognitive Services Web site](https://azure.microsoft.com/free/cognitive-services/), create a new Azure account, and try Cognitive Services for free. Then open, modify, build, and run the accompanying Visual Studio solution.
 
 
 ### Build the sample
